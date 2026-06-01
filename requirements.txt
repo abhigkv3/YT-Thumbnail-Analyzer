@@ -1,0 +1,6 @@
+streamlit
+groq
+pillow
+plotly
+requests
+base64
